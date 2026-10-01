@@ -10,7 +10,6 @@ Building scalable web applications, AI-powered products, and modern backend syst
 ## 🚀 About Me
 
 - 🎓 Bachelor of Computer Applications (2023–2026)
-- 💼 Software Development Intern at **Medgloss**
 - 💻 Full Stack Developer specializing in **React, Node.js, Express, MongoDB & FastAPI**
 - 🤖 Passionate about Artificial Intelligence, LLMs, and Automation
 - ☁️ Exploring AWS, Docker, DevOps, and Cloud-native applications
@@ -18,20 +17,6 @@ Building scalable web applications, AI-powered products, and modern backend syst
 
 ---
 
-## 💼 Experience
-
-### Software Development Intern — Medgloss (4 Months)
-
-- Developed production-ready REST APIs using **Node.js** and **Express.js**
-- Built responsive frontend modules with **React.js**
-- Worked extensively with **MongoDB**
-- Developed features for:
-  - Question Bank
-  - Mock Tests
-  - Medical Education Modules
-- Collaborated with developers to build, optimize, and maintain production applications.
-
----
 
 # 🚀 Featured Project
 
