@@ -143,7 +143,6 @@ CSS
 # 🏆 Achievements
 
 - Oracle Academy — Databases for Developers: Foundations (98%)
-- Software Development Internship at Medgloss
 - Developed and deployed InstaFlow
 - Participated in College Hackathons
 - Built multiple AI-powered Full Stack applications
